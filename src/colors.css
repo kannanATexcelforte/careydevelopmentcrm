@@ -1,0 +1,15 @@
+:root {
+    /* set one */
+    --bg-light: aliceblue;
+    --bg-dark: cadetblue;
+
+    /* set two */
+    --bg-light: floralwhite;
+    --bg-dark: darksalmon;
+
+    --text-color-dark: dimgray;
+    --text-color-light: ghostwhite;
+    --text-color-white: white;
+    --small-heading-color: darkslategray;
+    --large-heading-color: darkslategrey;
+}
