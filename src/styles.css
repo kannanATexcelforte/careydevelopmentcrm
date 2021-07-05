@@ -7,8 +7,20 @@ body {
     font-family: "Ubuntu", sans-serif;
 }
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html,
+body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+img,
+video {
+    max-width: 100%;
+    height: auto;
+}
 
 .mat-form-field-flex {
     background-color: #ffffff !important;
